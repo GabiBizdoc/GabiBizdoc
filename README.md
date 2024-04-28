@@ -5,7 +5,7 @@
 
 **Note:** These stats only include data from public repositories.
 
-<h3>My Pokemon collection:</h3>
+## My Pokemon collection:
 <p style="display: flex; gap: 2rem;">
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
